@@ -1,0 +1,17 @@
+{
+    "description": "php_facades",
+    "type": "project",
+    "keywords": [
+        "framework",
+        "thinkphp",
+        "ORM"
+    ],
+    "require": {
+        "php": ">=7.3.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "kernel\\": "kernel"
+        }
+    }
+}
