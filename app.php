@@ -10,7 +10,7 @@ class App {
 
 		$config = new Config();
 
-		$config->set('app_name', 'static call');
+		$config->set('app_name', 'php_facades');
 
 		echo $config->get('app_name');
 		
